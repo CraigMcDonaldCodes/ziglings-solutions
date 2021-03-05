@@ -1,2 +1,5 @@
 # ziglings-solutions
-Solutions to the Ziglings koans
+
+Solutions to the Ziglings koans.
+
+https://github.com/ratfactor/ziglings
